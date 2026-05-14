@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background-color: #f4f7fb;
+}
+h2 {
+  color: #0d6efd;
+  margin-bottom: 15px;
+}

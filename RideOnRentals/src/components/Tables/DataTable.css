@@ -1,0 +1,35 @@
+.table-container {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0px 1px 6px rgba(0, 0, 0, 0.1);
+  overflow-x: auto;
+}
+
+.custom-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.custom-table th,
+.custom-table td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.custom-table th {
+  background-color: #0d6efd;
+  color: white;
+  font-weight: 600;
+}
+
+.custom-table tr:hover {
+  background-color: #f2f6fc;
+}
+
+.no-data {
+  text-align: center;
+  color: gray;
+  padding: 20px;
+}
